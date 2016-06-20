@@ -1,0 +1,9 @@
+Twitter Streaming API からTweetを取得し、それをRethinkDBにいれて
+それを分析していく。
+実行前にAPIとRethinkDBを使えるようにしておく。
+
+実行方法
+DB起動
+Tweet収集　stream_to_rethink.py
+Tweet処理　grouping_tweets.py
+save　　　 save_keywords.py
