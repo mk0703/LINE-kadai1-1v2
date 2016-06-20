@@ -1,0 +1,27 @@
+2016-06-18T06:31:01.338781031 0.280676s notice: Recursively removing directory /home/mk/work/tweet-analysis-sample/data/rethink/tmp
+2016-06-18T06:31:01.389800066 0.331693s notice: Initializing directory /home/mk/work/tweet-analysis-sample/data/rethink
+2016-06-18T06:31:01.389941012 0.331834s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/mk/work/tweet-analysis-sample/data/rethink' did not already exist or is empty.)
+2016-06-18T06:31:01.389967343 0.331860s notice: Running rethinkdb 2.3.4~0xenial (GCC 5.3.1)...
+2016-06-18T06:31:01.397677500 0.339574s notice: Running on Linux 4.4.0-21-generic x86_64
+2016-06-18T06:31:01.397746895 0.339640s notice: Loading data from directory /home/mk/work/tweet-analysis-sample/data/rethink
+2016-06-18T06:31:01.520387612 0.462281s info: Automatically using cache size of 674 MB
+2016-06-18T06:31:01.541067329 0.482961s notice: Listening for intracluster connections on port 29015
+2016-06-18T06:31:01.610757198 0.552651s notice: Listening for client driver connections on port 28015
+2016-06-18T06:31:01.611124924 0.553018s notice: Listening for administrative HTTP connections on port 8080
+2016-06-18T06:31:01.611128826 0.553022s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-06-18T06:31:01.611135163 0.553028s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-06-18T06:31:01.611138967 0.553032s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-06-18T06:31:01.611144347 0.553037s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-06-18T06:31:01.611147808 0.553041s notice: Server ready, "ubuntu_fte" 6c687715-6bec-493d-97c1-c8c38b76bdb5
+2016-06-18T06:45:29.211128672 0.057833s notice: Running rethinkdb 2.3.4~0xenial (GCC 5.3.1)...
+2016-06-18T06:45:29.214594755 0.061302s notice: Running on Linux 4.4.0-21-generic x86_64
+2016-06-18T06:45:29.214695810 0.061400s notice: Loading data from directory /home/mk/work/tweet-analysis-sample/data/rethink
+2016-06-18T06:45:29.256372556 0.103077s info: Automatically using cache size of 716 MB
+2016-06-18T06:45:29.257437396 0.104142s notice: Listening for intracluster connections on port 29015
+2016-06-18T06:45:29.258657963 0.105362s notice: Listening for client driver connections on port 28015
+2016-06-18T06:45:29.258930008 0.105634s notice: Listening for administrative HTTP connections on port 8080
+2016-06-18T06:45:29.258933397 0.105638s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-06-18T06:45:29.258935768 0.105640s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-06-18T06:45:29.258938542 0.105643s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2016-06-18T06:45:29.258939985 0.105644s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-06-18T06:45:29.258942460 0.105647s notice: Server ready, "ubuntu_fte" 6c687715-6bec-493d-97c1-c8c38b76bdb5
